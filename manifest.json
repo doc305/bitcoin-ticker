@@ -1,12 +1,12 @@
 {
   "name": "Bitcoin Ticker",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "builds": [
     {
       "chipFamily": "ESP32-S3",
       "ota": {
-        "path": "https://raw.githubusercontent.com/doc305/bitcoin-ticker/main/bitcoin-ticker-4848s040-mempool-standalone-1.0.4.ota.bin",
-        "md5": "02be42225e49c62185c7b7b6e47a43b4"
+        "path": "https://raw.githubusercontent.com/doc305/bitcoin-ticker/main/bitcoin-ticker-4848s040-mempool-standalone-1.0.5.ota.bin",
+        "md5": "7fea270477edb605d64c5abfba7ceed5"
       }
     }
   ]
